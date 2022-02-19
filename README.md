@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @egeyazicioglu
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JS 
+- 📫 How to reach me https://www.instagram.com/ege.yaziciogluu/
